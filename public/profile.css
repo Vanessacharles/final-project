@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image:url(img/background.png);
+  background-size:auto;
+  background-repeat: 100% 100%;
+  /* background-color: rgb(211, 211, 211); */
+}
+.col-sm-6 ul{
+  list-style: none;
+}
+.text{
+  width: 100%;
+  height: 200px;
+}
+.jumbotron h1 , .jumbotron p{
+  color:white;
+}
+img{
+  height: 200px;
+}
+.hide{
+  display: none;
+}
+/* h1, h2, h3, ul{
+  color:white;
+} */

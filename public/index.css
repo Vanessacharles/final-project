@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image:url(img/images.jpeg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  /* background-color: rgb(211, 211, 211); */
+}
+.jumbotron{
+  background-image:url(img/me.png);
+  background-size:contain;
+  background-repeat:round;
+}

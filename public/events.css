@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image:url(img/stage.png);
+  background-size:cover;
+  background-repeat: 100% 100%;
+}
+h1{
+  text-align: center;
+  color:rgb(0, 255, 255);
+}
+ul{
+  color:white;
+}
+ul li{
+  width:40%;
+  float:left;
+  list-style: none;
+  margin-top:10px;
+
+}
+ul h5{
+  text-decoration: underline;
+  color:rgb(0, 255, 255);
+}
